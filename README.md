@@ -3,6 +3,7 @@
 This gem is a simple wrapper around the jQuery qTip2 plugin.
 It is bundled as a gem to be able to include this 3rd party asset into the asset pipeline, without having to locally import the actual CSS and JavaScript into your project.
 Please see http://qtip2.com for the original plugin.
+[![Gem Version](https://badge.fury.io/rb/jquery-qtip2-wrapper-rails.svg)](http://badge.fury.io/rb/jquery-qtip2-wrapper-rails)
 
 ## Installation
 
